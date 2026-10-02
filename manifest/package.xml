@@ -112,11 +112,7 @@
 
     <!-- Revenue Cloud — Document Generation (CLM / DocGen) -->
     <types><members>*</members><name>DocumentTemplate</name></types>
-    <types><members>*</members><name>DocumentClause</name></types>
     <types><members>*</members><name>DocumentGenerationSetting</name></types>
-
-    <!-- Revenue Cloud — Payments & Billing -->
-    <types><members>*</members><name>IntegrationProviderDefinition</name></types>
 
     <!-- Revenue Cloud — Approvals -->
     <types><members>*</members><name>ApprovalProcess</name></types>
@@ -127,7 +123,7 @@
     <types><members>*</members><name>GenAiFunction</name></types>
     <types><members>*</members><name>GenAiPlannerBundle</name></types>
     <types><members>*</members><name>GenAiPromptTemplate</name></types>
-    <types><members>*</members><name>BotDefinition</name></types>
+    <types><members>*</members><name>Bot</name></types>
     <types><members>*</members><name>BotVersion</name></types>
 
     <!-- Experience Cloud -->
